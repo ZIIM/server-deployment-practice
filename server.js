@@ -22,4 +22,8 @@ app.get('/addition', (request, response) => {
   }
 });
 
+// app.listen(PORT, () => {
+//   console.log('App is listening');
+// });
+
 module.exports = app;
